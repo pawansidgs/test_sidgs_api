@@ -1,0 +1,29 @@
+[
+    {
+        "name": "test_sidgs_apiProduct",
+        "apiResources": [],
+        "approvalType": "auto",
+        "attributes": [
+            {
+                "name": "description",
+                "value": "test_sidgs_apiProduct"
+            },
+            {
+                "name": "access",
+                "value": "private"
+            }
+        ],
+        "description": "test_sidgs_apiProduct",
+        "displayName": "test_sidgs_apiProduct",
+        "environments": [
+            "${env}"
+        ],
+        "proxies": [
+            "test_sidgs_api"
+        ],
+        "quota": "10000",
+        "quotaInterval": "1",
+        "quotaTimeUnit": "month",
+        "scopes": []
+    } 
+]
