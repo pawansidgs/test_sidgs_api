@@ -7,8 +7,8 @@
     <name>test_sidgs_api</name>
 
     <parent>
-        <groupId>com.hdfc.apigee</groupId>
-        <artifactId>test_sidgs_api-parent</artifactId>
+        <groupId>com.hdfc.api.commons</groupId>
+        <artifactId>hdfc-parent-pom</artifactId>
         <version>1.0.0-SNAPSHOT</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
